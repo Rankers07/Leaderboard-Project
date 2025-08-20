@@ -8,10 +8,10 @@ node_modules/
 
 
 
-# echo "# Leaderboard-Project1" >> README.md
+# echo "# Leaderboard-Project" >> README.md
 # git init
 # git add README.md
 # git commit -m "first commit"
 # git branch -M main
-# git remote add origin https://github.com/Rankers07/Leaderboard-Project1.git
+# git remote add origin https://github.com/Rankers07/Leaderboard-Project.git
 # git push -u origin main
